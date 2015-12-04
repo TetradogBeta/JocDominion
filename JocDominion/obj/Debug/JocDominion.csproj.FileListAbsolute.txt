@@ -1,0 +1,47 @@
+E:\Escritorio\Calculadora\JocDominion\JocDominion\bin\Debug\JocDominion.exe.config
+E:\Escritorio\Calculadora\JocDominion\JocDominion\bin\Debug\JocDominion.exe
+E:\Escritorio\Calculadora\JocDominion\JocDominion\bin\Debug\JocDominion.pdb
+E:\Escritorio\Calculadora\JocDominion\JocDominion\obj\Debug\JocDominion.csprojResolveAssemblyReference.cache
+E:\Escritorio\Calculadora\JocDominion\JocDominion\obj\Debug\JocDominion.Properties.Resources.resources
+E:\Escritorio\Calculadora\JocDominion\JocDominion\obj\Debug\JocDominion.csproj.GenerateResource.Cache
+E:\Escritorio\Calculadora\JocDominion\JocDominion\obj\Debug\JocDominion.exe
+E:\Escritorio\Calculadora\JocDominion\JocDominion\obj\Debug\JocDominion.pdb
+E:\Escritorio\Calculadora\JocDominion\JocDominion\obj\Debug\JocDominion.Form1.resources
+E:\Escritorio\Calculadora\JocDominion\JocDominion\bin\Debug\dominion.dll
+E:\Escritorio\Calculadora\JocDominion\JocDominion\bin\Debug\dominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\JocDominion.exe.config
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.exe
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.csprojResolveAssemblyReference.cache
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.Properties.Resources.resources
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.csproj.GenerateResource.Cache
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\JocDominion.exe
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\JocDominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\dominion.dll
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\dominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.frmJocDominon.resources
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.Resource1.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\JocDominion.exe.config
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\JocDominion.exe
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\JocDominion.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\dominion.dll
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\bin\Debug\dominion.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.frmJocDominon.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.Properties.Resources.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.Resource1.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.csproj.GenerateResource.Cache
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.exe
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\JocDominion\obj\Debug\JocDominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\bin\Debug\JocDominion.exe.config
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\bin\Debug\JocDominion.exe
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\bin\Debug\JocDominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\bin\Debug\dominion.dll
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\bin\Debug\dominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.frmJocDominon.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.Properties.Resources.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.Resource1.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.csproj.GenerateResource.Cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.exe
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\JocDominion\obj\Debug\JocDominion.pdb

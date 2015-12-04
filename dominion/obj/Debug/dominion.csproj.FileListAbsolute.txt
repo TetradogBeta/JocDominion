@@ -1,0 +1,31 @@
+E:\Escritorio\Calculadora\JocDominion\dominion\obj\Debug\dominion.cartesIMG.resources
+E:\Escritorio\Calculadora\JocDominion\dominion\obj\Debug\dominion.csproj.GenerateResource.Cache
+E:\Escritorio\Calculadora\JocDominion\dominion\bin\Debug\dominion.dll
+E:\Escritorio\Calculadora\JocDominion\dominion\bin\Debug\dominion.pdb
+E:\Escritorio\Calculadora\JocDominion\dominion\obj\Debug\dominion.dll
+E:\Escritorio\Calculadora\JocDominion\dominion\obj\Debug\dominion.pdb
+E:\Escritorio\Calculadora\JocDominion\dominion\obj\Debug\dominion.Altres.Jugada.resources
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\bin\Debug\dominion.dll
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\bin\Debug\dominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.Altres.Jugada.resources
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.CartesIMG.resources
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.csproj.GenerateResource.Cache
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.dll
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\bin\Debug\dominion.dll
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\bin\Debug\dominion.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.Altres.Jugada.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.CartesIMG.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.csproj.GenerateResource.Cache
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.dll
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\dominion\obj\Debug\dominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\bin\Debug\dominion.dll
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\bin\Debug\dominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\obj\Debug\dominion.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\obj\Debug\dominion.Altres.Jugada.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\obj\Debug\dominion.CartesIMG.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\obj\Debug\dominion.csproj.GenerateResource.Cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\obj\Debug\dominion.dll
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\dominion\obj\Debug\dominion.pdb

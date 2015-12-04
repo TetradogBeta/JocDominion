@@ -1,0 +1,39 @@
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.exe.config
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\dominion.Properties.Resources.resources
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.csproj.GenerateResource.Cache
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.exe
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\dominion.dll
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\JocDominion.exe
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\dominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\JocDominion.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.csprojResolveAssemblyReference.cache
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.exe
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.pdb
+E:\Documentos\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\dominion.frmMain.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.exe.config
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.exe
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.exe
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\dominion.dll
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\JocDominion.exe
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\dominion.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\bin\Debug\JocDominion.pdb
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\dominion.frmMain.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\dominion.Properties.Resources.resources
+C:\Users\Pingu\Documents\Visual Studio 2012\Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.csproj.GenerateResource.Cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.exe.config
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.exe
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.exe
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\LAuncherAux.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\dominion.dll
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\JocDominion.exe
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\dominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\bin\Debug\JocDominion.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\obj\Debug\dominion.frmMain.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\obj\Debug\dominion.Properties.Resources.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\JocDominion\LAuncherAux\obj\Debug\LAuncherAux.csproj.GenerateResource.Cache

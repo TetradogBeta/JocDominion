@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE22E7C7-FA40-40C7-AF57-C6FA010EAF3A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dominion</RootNamespace>
+    <AssemblyName>dominion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Altres\Jugada.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\Jugada.Designer.cs">
+      <DependentUpon>Jugada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altres\Jugador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\Jugador.Designer.cs">
+      <DependentUpon>Jugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altres\MaDominion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\MaDominion.Designer.cs" />
+    <Compile Include="Altres\MostraPilo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\MostraPilo.Designer.cs" />
+    <Compile Include="Altres\PiloSubministrament.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\PiloSubministrament.Designer.cs" />
+    <Compile Include="Altres\Pregunta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\Pregunta.Designer.cs">
+      <DependentUpon>Pregunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altres\Subministrament.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\Subministrament.Designer.cs" />
+    <Compile Include="CartesAccio\Aldea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Aldea.Designer.cs" />
+    <Compile Include="Altres\Comptadors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\Comptadors.Designer.cs" />
+    <Compile Include="Altres\Partida.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\Partida.Designer.cs">
+      <DependentUpon>Partida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Altres\PilaDominion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\PilaDominion.Designer.cs" />
+    <Compile Include="Altres\PiloJugador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Altres\PiloJugador.Designer.cs" />
+    <Compile Include="CartesAccio\Aventurer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Aventurer.Designer.cs" />
+    <Compile Include="CartesAccio\Banquet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Banquet.Designer.cs" />
+    <Compile Include="CartesAccio\Biblioteca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Biblioteca.Designer.cs" />
+    <Compile Include="CartesAccio\Bruixa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Bruixa.Designer.cs" />
+    <Compile Include="CartesAccio\Burocatra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Burocatra.Designer.cs" />
+    <Compile Include="CartesAccio\Canceller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Canceller.Designer.cs" />
+    <Compile Include="CartesAccio\Capella.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Capella.Designer.cs" />
+    <Compile Include="Carta\Carta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carta\Carta.Designer.cs" />
+    <Compile Include="Carta\CartaAccio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carta\CartaAccio.Designer.cs" />
+    <Compile Include="Carta\CartaDominion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carta\CartaDominion.Designer.cs" />
+    <Compile Include="Carta\CartaTresor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carta\CartaTresor.Designer.cs" />
+    <Compile Include="Carta\CartaVictoria.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carta\CartaVictoria.Designer.cs" />
+    <Compile Include="CartesIMG.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CartesIMG.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CartesTresor\Coure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesTresor\Coure.Designer.cs" />
+    <Compile Include="CartesTresor\Or.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesTresor\Or.Designer.cs" />
+    <Compile Include="CartesTresor\Plata.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesTresor\Plata.Designer.cs" />
+    <Compile Include="CartesVictoria\Ducat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesVictoria\Ducat.Designer.cs" />
+    <Compile Include="CartesVictoria\Finca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesVictoria\Finca.Designer.cs" />
+    <Compile Include="CartesVictoria\ImatgesCartes.cs" />
+    <Compile Include="CartesVictoria\Jardins.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesVictoria\Jardins.Designer.cs" />
+    <Compile Include="CartesVictoria\Malediccio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesVictoria\Malediccio.Designer.cs" />
+    <Compile Include="CartesVictoria\Provincia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesVictoria\Provincia.Designer.cs" />
+    <Compile Include="CartesAccio\Enviat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Enviat.Designer.cs" />
+    <Compile Include="CartesAccio\Espia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Espia.Designer.cs" />
+    <Compile Include="CartesAccio\Ferreria.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Ferreria.Designer.cs" />
+    <Compile Include="CartesAccio\Festival.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Festival.Designer.cs" />
+    <Compile Include="CartesAccio\Fossat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Fossat.Designer.cs" />
+    <Compile Include="CartesAccio\Laboratori.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Laboratori.Designer.cs" />
+    <Compile Include="CartesAccio\Lladre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Lladre.Designer.cs" />
+    <Compile Include="CartesAccio\Llenyataires.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Llenyataires.Designer.cs" />
+    <Compile Include="CartesAccio\Mercat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Mercat.Designer.cs" />
+    <Compile Include="CartesAccio\Milicia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Milicia.Designer.cs" />
+    <Compile Include="CartesAccio\Mina.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Mina.Designer.cs" />
+    <Compile Include="CartesAccio\Prestador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Prestador.Designer.cs" />
+    <Compile Include="CartesAccio\Remodelar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Remodelar.Designer.cs" />
+    <Compile Include="CartesAccio\SalaDelConsell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\SalaDelConsell.Designer.cs" />
+    <Compile Include="CartesAccio\SalaDelTron.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\SalaDelTron.Designer.cs" />
+    <Compile Include="CartesAccio\Soterrani.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Soterrani.Designer.cs" />
+    <Compile Include="CartesAccio\Taller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartesAccio\Taller.Designer.cs" />
+    <None Include="Resources\ImatgesCartes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Resources\Jardins.jpg" />
+    <None Include="Resources\JardinsFinal.jpg" />
+    <None Include="Resources\Laboratori.jpg" />
+    <None Include="Resources\LaboratoriFinal.jpg" />
+    <None Include="Resources\Lladre.jpg" />
+    <None Include="Resources\LladreFinal.jpg" />
+    <None Include="Resources\Llenyataires.jpg" />
+    <None Include="Resources\LlenyatairesFinal.jpg" />
+    <None Include="Resources\Malediccio.jpg" />
+    <None Include="Resources\MalediccioFinal.jpg" />
+    <None Include="Resources\Mercat.jpg" />
+    <None Include="Resources\MercatFinal.jpg" />
+    <None Include="Resources\Milicia.jpg" />
+    <None Include="Resources\MiliciaFinal.jpg" />
+    <None Include="Resources\Mina.jpg" />
+    <None Include="Resources\MinaFinal.jpg" />
+    <None Include="Resources\Or.jpg" />
+    <None Include="Resources\OrFinal.jpg" />
+    <None Include="Resources\Plata.jpg" />
+    <None Include="Resources\PlataFinal.jpg" />
+    <None Include="Resources\Prestador.jpg" />
+    <None Include="Resources\PrestadorFinal.jpg" />
+    <None Include="Resources\Provincia.jpg" />
+    <None Include="Resources\ProvinciaFinal.jpg" />
+    <None Include="Resources\Remodelar.jpg" />
+    <None Include="Resources\RemodelarFinal.jpg" />
+    <None Include="Resources\Revers.jpg" />
+    <None Include="Resources\SalaDelConsell.jpg" />
+    <None Include="Resources\SalaDelConsellFinal.jpg" />
+    <None Include="Resources\SaloDelTron.jpg" />
+    <None Include="Resources\SaloDelTronFinal.jpg" />
+    <None Include="Resources\Soterrani.jpg" />
+    <None Include="Resources\SoterraniFinal.jpg" />
+    <None Include="Resources\Taller.jpg" />
+    <None Include="Resources\TallerFinal.jpg" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image1.bmp" />
+    <None Include="Resources\Regal.png" />
+    <None Include="Resources\Compra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Altres\Jugada.resx">
+      <DependentUpon>Jugada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CartesIMG.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CartesIMG.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aldea.jpg" />
+    <None Include="Resources\AldeaFinal.jpg" />
+    <None Include="Resources\Aventurer.jpg" />
+    <None Include="Resources\AventurerFinal.jpg" />
+    <None Include="Resources\Banquet.jpg" />
+    <None Include="Resources\BanquetFinal.jpg" />
+    <None Include="Resources\Biblioteca.jpg" />
+    <None Include="Resources\BibliotecaFinal.jpg" />
+    <None Include="Resources\Bruixa.jpg" />
+    <None Include="Resources\BruixaFinal.jpg" />
+    <None Include="Resources\Burocrata.jpg" />
+    <None Include="Resources\BurocrataFinal.jpg" />
+    <None Include="Resources\Canceller.jpg" />
+    <None Include="Resources\CancellerFinal.jpg" />
+    <None Include="Resources\Capella.jpg" />
+    <None Include="Resources\CapellaFinal.jpg" />
+    <None Include="Resources\CartesEliminades.jpg" />
+    <None Include="Resources\Coure.jpg" />
+    <None Include="Resources\CoureFinal.jpg" />
+    <None Include="Resources\Ducat.jpg" />
+    <None Include="Resources\DucatFinal.jpg" />
+    <None Include="Resources\Enviat.jpg" />
+    <None Include="Resources\EnviatFinal.jpg" />
+    <None Include="Resources\Espia.jpg" />
+    <None Include="Resources\EspiaFinal.jpg" />
+    <None Include="Resources\Ferreria.jpg" />
+    <None Include="Resources\FerreriaFinal.jpg" />
+    <None Include="Resources\Festival.jpg" />
+    <None Include="Resources\FestivalFinal.jpg" />
+    <None Include="Resources\Finca.jpg" />
+    <None Include="Resources\FincaFinal.jpg" />
+    <None Include="Resources\Fossat.jpg" />
+    <None Include="Resources\FossatFinal.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
